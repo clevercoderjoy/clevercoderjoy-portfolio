@@ -108,7 +108,7 @@ img{
 .projects{
     justify-content: center;
     text-align: center;
-    margin: auto;
+    margin-top: 1rem;
 }
 
 .project-heading{
@@ -148,7 +148,6 @@ img{
 
 /* blogs */
 .blogs{
-    margin: auto;
     margin-top: 1rem;
     justify-content: center;
     text-align: center;
