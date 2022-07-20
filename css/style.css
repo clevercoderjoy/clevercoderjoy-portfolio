@@ -87,7 +87,7 @@ img{
     text-align: center;
     width: 75%;
     font-size: 18px;
-    margin: auto;
+    margin: 3rem auto;
 }
 
 .greetings{
@@ -167,7 +167,7 @@ img{
     text-align: center;
     display: flex;
     flex-direction: column;
-    width: 75%;
+    width: 100%;
     margin: 2rem auto;
 }
 
@@ -187,8 +187,8 @@ img{
     text-align: center;
     display:flex;
     flex-direction: column;
-    width: 75%;
-    margin: 2rem auto;
+    width: 100%;
+    margin: 1rem auto;
 }
 
 .project-title{
@@ -200,8 +200,11 @@ img{
 }
 
 .container{
+    margin: 0 auto;
+    margin-top: 5rem;
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .wrapper .button {
